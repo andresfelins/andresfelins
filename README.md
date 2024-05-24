@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 
 ### Hola 👋, 👋! Soy Andrés Felipe Nùñez Silva 💻
 #### Full Stack Developer 
+<!--
 ![Full Stack Developer ](https://avatars.githubusercontent.com/u/95084832?s=400&u=4f280dc21cf330020d7f811cdb5993b4a205ce7f&v=4)
+
+--> 
 
 Programador apasionado con más de siete años de experiencia en desarrollo de software. Comprometido con la excelencia técnica, la innovación y el aprendizaje continuo. Me gustan los proyectos para contribuir en soluciones innnovadoras y crecer en entornos desafiantes.
 
