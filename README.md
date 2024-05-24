@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 #### Full Stack Developer 
 ![Full Stack Developer ](https://avatars.githubusercontent.com/u/95084832?s=400&u=4f280dc21cf330020d7f811cdb5993b4a205ce7f&v=4)
 
-Programador con màs de sieter años de experiencia. 
+Programador apasionado con más de siete años de experiencia en desarrollo de software. Comprometido con la excelencia técnica, la innovación y el aprendizaje continuo. Me gustan los proyectos para contribuir en soluciones innnovadoras y crecer en entornos desafiantes.
 
 Habilidades:
 
@@ -36,8 +36,11 @@ IDEs/Editors  ![Android Studio](https://img.shields.io/badge/android%20studio-34
 
 Languages  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)	 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-- 🔭 Estoy trabajando en this page. 
+- 🔭 Estoy trabajando en este proyecto:
 
+En Magnum Logistics S.A.S, mi papel como Desarrollador de Software se centra en optimizar procesos mediante la integración continua y la entrega continua, apalancando mis conocimientos en AngularJS y el ciclo de vida de desarrollo de software. Con una formación tecnológica en análisis y desarrollo de sistemas de información.
+
+Mi enfoque es innovador y estratégico, buscando siempre la eficiencia y la calidad en cada proyecto. Los sistemas que he desarrollado han contribuido a mejorar significativamente la operatividad logística, reflejando mi compromiso por generar valor y soluciones tecnológicas avanzadas que responden a las necesidades del mercado, en sistemas WMS, ERP y LRP
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andresfelins)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andresfelins/)  
 
