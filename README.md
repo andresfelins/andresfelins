@@ -4,26 +4,25 @@
 **andresfelins/andresfelins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 
 -->
 
 
 ### Hola 👋, 👋! Soy Andrés Felipe Nùñez Silva 💻
 #### Full Stack Developer 
 <!--
-![Full Stack Developer ](https://avatars.githubusercontent.com/u/95084832?s=400&u=4f280dc21cf330020d7f811cdb5993b4a205ce7f&v=4)
+![Full Stack Developer ]
+(https://avatars.githubusercontent.com/u/95084832?s=400&u=4f280dc21cf330020d7f811cdb5993b4a205ce7f&v=4)
 
 --> 
 
-Programador apasionado con más de siete años de experiencia en desarrollo de software. Comprometido con la excelencia técnica, la innovación y el aprendizaje continuo. Me gustan los proyectos para contribuir en soluciones innnovadoras y crecer en entornos desafiantes.
+
+PT - Programador apaixonado com mais de sete anos de experiência em desenvolvimento de software. Comprometido com a excelência técnica, a inovação e a aprendizagem contínua. Gosto de projetos que contribuem para soluções inovadoras e crescem em ambientes desafiadores.
+
+EN - Passionate programmer with over seven years of experience in software development. Committed to technical excellence, innovation, and continuous learning. I enjoy projects that allow me to contribute to innovative solutions and grow in challenging environments.
+
+ES - Programador apasionado con más de siete años de experiencia en desarrollo de software. Comprometido con la excelencia técnica, la innovación y el aprendizaje continuo. Me gustan los proyectos para contribuir en soluciones innnovadoras y crecer en entornos desafiantes.
+
 
 Habilidades:
 
@@ -41,9 +40,25 @@ Languages  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-b
 
 - 🔭 Estoy trabajando en este proyecto:
 
+PT: 
+
+Na Magnum Logistics S.A.S, o meu papel como Desenvolvedor de Software centra-se na otimização de processos através da integração contínua e da entrega contínua, aproveitando os meus conhecimentos em AngularJS e no ciclo de vida do desenvolvimento de software. Com formação tecnológica em análise e desenvolvimento de sistemas de informação.
+
+A minha abordagem é inovadora e estratégica, buscando sempre a eficiência e a qualidade em cada projeto. Os sistemas que desenvolvi contribuíram para melhorar significativamente a operacionalidade logística, refletindo o meu compromisso em gerar valor e soluções tecnológicas avançadas que respondem às necessidades do mercado, em sistemas WMS, ERP e LRP.
+
+
+EN **
+
+At Magnum Logistics S.A.S, my role as a Software Developer focuses on optimizing processes through continuous integration and continuous delivery, leveraging my knowledge of AngularJS and the software development lifecycle. I have a background in 
+information systems analysis and development.
+
+My approach is innovative and strategic, always seeking efficiency and quality in every project. The systems I have developed have contributed to significantly improving logistics operations, reflecting my commitment to generating value and advanced technological solutions that respond to market needs in WMS, ERP, and LRP systems.
+
+ES :
 En Magnum Logistics S.A.S, mi papel como Desarrollador de Software se centra en optimizar procesos mediante la integración continua y la entrega continua, apalancando mis conocimientos en AngularJS y el ciclo de vida de desarrollo de software. Con una formación tecnológica en análisis y desarrollo de sistemas de información.
 
 Mi enfoque es innovador y estratégico, buscando siempre la eficiencia y la calidad en cada proyecto. Los sistemas que he desarrollado han contribuido a mejorar significativamente la operatividad logística, reflejando mi compromiso por generar valor y soluciones tecnológicas avanzadas que responden a las necesidades del mercado, en sistemas WMS, ERP y LRP
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andresfelins)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andresfelins/)  
 
