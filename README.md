@@ -1,4 +1,5 @@
-## Hi there 👋
+
+### Hi 👋, 👋! Soy Andrés Felipe Nùñez Silva 💻
 
 <!--
 **andresfelins/andresfelins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +9,6 @@ Here are some ideas to get you started:
 -->
 
 
-### Hola 👋, 👋! Soy Andrés Felipe Nùñez Silva 💻
 #### Full Stack Developer 
 <!--
 ![Full Stack Developer ]
@@ -53,6 +53,8 @@ At Magnum Logistics S.A.S, my role as a Software Developer focuses on optimizing
 information systems analysis and development.
 
 My approach is innovative and strategic, always seeking efficiency and quality in every project. The systems I have developed have contributed to significantly improving logistics operations, reflecting my commitment to generating value and advanced technological solutions that respond to market needs in WMS, ERP, and LRP systems.
+
+
 
 ES :
 En Magnum Logistics S.A.S, mi papel como Desarrollador de Software se centra en optimizar procesos mediante la integración continua y la entrega continua, apalancando mis conocimientos en AngularJS y el ciclo de vida de desarrollo de software. Con una formación tecnológica en análisis y desarrollo de sistemas de información.
